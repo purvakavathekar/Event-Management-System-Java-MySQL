@@ -44,7 +44,7 @@ src/
 
 ## Screenshots
 
-Add screenshots of:
+Added screenshots of:
 
 * Login Screen
 * Dashboard
